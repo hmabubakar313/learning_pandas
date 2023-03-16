@@ -1,0 +1,50 @@
+,Unnamed: 0,rental_id,building_id,rent,bedrooms,bathrooms,size_sqft,min_to_subway,floor,building_age_yrs,no_fee,has_roofdeck,has_washer_dryer,has_doorman,has_elevator,has_dishwasher,has_patio,has_gym,neighborhood,submarket,borough
+75,256,9903,27285599,3631,1.0,1,707,3,1.0,71,1,0,0,0,0,0,0,0,Stuyvesant Town/PCV,All Downtown,Manhattan
+80,274,10349,96878637,5995,1.0,2,1815,4,1.0,96,0,0,0,1,1,0,0,1,Financial District,All Downtown,Manhattan
+94,314,2147,95557456,3190,1.0,1,650,6,1.0,106,0,0,0,0,0,0,0,0,East Village,All Downtown,Manhattan
+111,374,10552,98314227,2995,1.0,1,800,4,1.0,66,0,0,0,0,0,0,0,0,Midtown East,All Midtown,Manhattan
+135,444,4128,40263491,6000,1.0,1,801,1,1.0,3,0,0,0,0,0,0,0,0,East Village,All Downtown,Manhattan
+140,463,251,97062977,1800,1.0,1,670,4,1.0,116,1,1,1,1,1,1,0,1,East Harlem,All Upper Manhattan,Manhattan
+182,612,8584,86972089,3900,1.0,1,850,3,1.0,106,0,0,0,0,0,0,0,0,Upper West Side,All Upper West Side,Manhattan
+244,819,4970,90060271,3900,1.0,1,560,2,1.0,106,0,1,0,0,0,0,0,1,West Village,All Downtown,Manhattan
+255,858,8259,54052503,2050,1.0,1,450,6,1.0,106,0,0,0,0,0,0,0,0,Gramercy Park,All Downtown,Manhattan
+334,1146,9783,37773081,3250,1.0,1,900,2,1.0,91,0,0,0,0,0,0,0,0,Morningside Heights,All Upper Manhattan,Manhattan
+335,1149,1509,23395007,1990,1.0,1,475,10,1.0,106,0,0,0,0,0,0,0,0,Midtown East,All Midtown,Manhattan
+336,1154,7818,10969521,2600,1.0,1,650,6,1.0,106,1,0,0,0,0,0,0,0,Midtown East,All Midtown,Manhattan
+370,1263,5001,61087133,2750,1.0,1,550,8,1.0,96,1,0,0,0,0,0,0,0,Upper East Side,All Upper East Side,Manhattan
+438,1473,5197,55918091,3645,1.0,1,811,14,1.0,55,1,0,0,0,0,0,0,0,Upper East Side,All Upper East Side,Manhattan
+458,1550,2137,7397895,2125,1.0,1,475,2,1.0,115,0,0,0,0,0,0,0,0,Central Harlem,All Upper Manhattan,Manhattan
+459,1560,9131,77385580,3195,1.0,1,700,3,1.0,41,0,0,0,0,0,0,0,0,Midtown East,All Midtown,Manhattan
+463,1567,7681,34836874,3000,1.0,1,667,4,1.0,88,0,0,1,0,0,0,0,0,Upper East Side,All Upper East Side,Manhattan
+531,1771,345,54642186,1995,1.0,1,625,5,1.0,96,0,0,0,0,0,0,0,0,Washington Heights,All Upper Manhattan,Manhattan
+549,1840,2544,79445359,2000,1.0,1,580,3,1.0,76,0,0,0,0,0,0,0,0,Central Harlem,All Upper Manhattan,Manhattan
+619,2078,9771,64789123,2695,1.0,1,650,2,1.0,56,0,0,0,0,0,0,0,0,Upper East Side,All Upper East Side,Manhattan
+622,2096,2805,36474106,3200,1.0,1,700,3,1.0,85,0,0,0,0,0,0,0,0,Upper West Side,All Upper West Side,Manhattan
+627,2114,10580,1477230,2450,1.0,1,500,5,1.0,96,0,0,0,0,0,0,0,0,Gramercy Park,All Downtown,Manhattan
+667,2252,882,60724757,2000,1.0,1,597,5,1.0,96,1,0,0,0,0,0,0,0,Hamilton Heights,All Upper Manhattan,Manhattan
+725,2469,6497,23977456,3100,1.0,1,800,5,1.0,106,0,0,0,0,0,0,0,0,Midtown East,All Midtown,Manhattan
+731,2484,3040,64455992,2750,1.0,1,600,7,1.0,106,0,0,0,0,0,0,0,0,East Village,All Downtown,Manhattan
+734,2489,11265,34603884,3800,1.0,2,1100,11,1.0,108,1,0,0,0,0,0,0,0,Lower East Side,All Downtown,Manhattan
+761,2595,1431,80731236,3500,1.0,1,675,6,1.0,92,0,0,1,0,0,1,0,0,Upper East Side,All Upper East Side,Manhattan
+765,2602,6533,14300786,1850,1.0,1,650,3,1.0,89,0,0,0,0,0,0,0,0,Inwood,All Upper Manhattan,Manhattan
+794,2694,10620,64789123,2695,1.0,1,650,2,1.0,56,0,0,0,0,0,0,0,0,Upper East Side,All Upper East Side,Manhattan
+804,2727,10715,98314227,3000,1.0,1,750,4,1.0,66,0,0,0,0,0,0,0,0,Midtown East,All Midtown,Manhattan
+816,2771,2551,10879123,2300,1.0,1,883,3,1.0,85,0,0,0,0,0,0,0,0,Washington Heights,All Upper Manhattan,Manhattan
+890,3014,1731,61396455,2300,1.0,1,535,3,1.0,106,0,0,0,0,0,0,0,0,Lower East Side,All Downtown,Manhattan
+909,3063,2709,11381726,3650,1.0,1,750,4,1.0,89,1,1,1,1,1,1,0,0,Upper West Side,All Upper West Side,Manhattan
+928,3138,7004,57342866,2000,1.0,1,632,5,1.0,58,1,0,0,0,0,0,0,0,Central Harlem,All Upper Manhattan,Manhattan
+969,3286,3701,55466576,4650,1.0,1,677,4,1.0,29,0,0,0,0,0,0,0,0,West Village,All Downtown,Manhattan
+990,3369,8886,33789277,2095,1.0,1,700,5,1.0,77,0,0,0,0,0,0,0,0,Washington Heights,All Upper Manhattan,Manhattan
+1019,3496,10615,32083351,4000,1.0,2,893,1,1.0,77,0,0,1,0,0,1,0,0,Chelsea,All Downtown,Manhattan
+1117,3825,8774,284545,2500,1.0,1,600,2,1.0,59,0,1,0,1,1,0,0,1,Upper West Side,All Upper West Side,Manhattan
+1159,3988,180,35193176,2750,1.0,1,1236,4,1.0,6,0,0,0,0,0,0,0,0,Central Harlem,All Upper Manhattan,Manhattan
+1186,4082,5908,14684662,2995,1.0,1,600,8,1.0,96,0,0,0,1,1,0,0,1,East Village,All Downtown,Manhattan
+1205,4133,4842,36822561,2700,1.0,1,550,4,1.0,106,0,0,0,0,0,0,0,0,Upper West Side,All Upper West Side,Manhattan
+1207,4150,8672,76887574,2375,1.0,1,600,9,1.0,59,0,0,0,0,0,0,0,0,Upper East Side,All Upper East Side,Manhattan
+1273,4361,7921,284545,2700,1.0,1,575,2,1.0,59,0,1,0,1,1,0,0,1,Upper West Side,All Upper West Side,Manhattan
+1323,4518,9422,91765710,2050,1.0,1,550,8,1.0,106,0,1,0,0,1,1,0,1,Midtown West,All Midtown,Manhattan
+1347,4562,5885,2865577,1925,1.0,1,650,2,1.0,92,0,0,0,0,0,0,0,0,Washington Heights,All Upper Manhattan,Manhattan
+1362,4612,11187,56363288,1895,1.0,1,725,1,1.0,0,0,0,0,0,0,0,0,0,Washington Heights,All Upper Manhattan,Manhattan
+1399,4745,832,73045086,4200,1.0,1,391,3,1.0,115,0,0,0,0,0,0,0,0,Soho,All Downtown,Manhattan
+1416,4796,5574,6415824,1750,1.0,1,600,5,1.0,106,0,0,0,0,0,0,0,0,Central Harlem,All Upper Manhattan,Manhattan
+1447,4916,1126,97062977,1800,1.0,1,670,4,1.0,116,1,1,1,1,1,1,0,1,East Harlem,All Upper Manhattan,Manhattan

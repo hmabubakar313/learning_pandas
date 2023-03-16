@@ -1,0 +1,21 @@
+,Unnamed: 0,rental_id,building_id,rent,bedrooms,bathrooms,size_sqft,min_to_subway,floor,building_age_yrs,no_fee,has_roofdeck,has_washer_dryer,has_doorman,has_elevator,has_dishwasher,has_patio,has_gym,neighborhood,submarket,borough
+7,147,8402,58994300,1850,1.0,1,1000,2,1.0,11,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+19,346,9816,73060494,2945,1.0,1,940,9,1.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+22,377,3369,72335059,1995,1.0,1,600,14,1.0,68,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+31,485,3374,93129760,1650,1.0,1,750,4,1.0,90,0,0,0,0,0,0,0,0,Woodhaven,South Queens,Queens
+34,530,7009,73060494,2595,1.0,1,752,9,1.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+61,1118,2006,31244061,2950,1.0,1,850,3,1.0,6,0,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+70,1338,4559,68756974,1950,1.0,1,715,10,1.0,84,1,1,0,1,1,1,1,1,Kew Gardens,Northeast Queens,Queens
+85,1710,8183,6338629,1650,1.0,1,750,4,1.0,20,0,0,0,0,0,0,0,0,Kew Gardens,Northeast Queens,Queens
+96,1912,9390,89973581,1650,1.0,1,809,18,1.0,53,1,0,0,1,0,0,0,0,Flushing,Northeast Queens,Queens
+104,2156,10246,63431782,1900,1.0,1,700,5,1.0,85,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+105,2174,10579,76665733,2600,1.0,1,812,6,1.0,61,0,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+110,2309,7763,40040852,1925,1.0,1,660,10,1.0,55,1,1,1,1,1,1,0,1,Sunnyside,Northwest Queens,Queens
+115,2399,1957,73060494,2900,1.0,1,936,9,1.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+133,2702,10068,92818278,1900,1.0,1,700,4,1.0,81,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+165,3321,10833,91861463,2050,1.0,1,800,5,1.0,77,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+174,3515,4927,74712223,1895,1.0,1,680,4,1.0,85,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+191,3925,6581,53208691,1585,1.0,1,700,4,1.0,85,0,0,0,0,0,0,0,0,Woodside,Central Queens,Queens
+206,4312,7305,98273937,2000,1.0,1,663,7,1.0,85,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+217,4634,10618,52644037,2000,1.0,1,700,3,1.0,8,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+218,4685,2143,40496208,2050,1.0,1,800,4,1.0,56,0,0,0,1,1,0,0,0,Astoria,Northwest Queens,Queens
